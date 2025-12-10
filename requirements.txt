@@ -4,5 +4,4 @@ scikit-learn
 joblib
 numpy
 gunicorn
-flask-cors  
-python-3.10.12
+flask-cors
